@@ -16,5 +16,3 @@ echo score total actuel : $scoretotal
 echo --------------------
 done
 echo "votre score total est : $scoretotal"
-
-/////p
